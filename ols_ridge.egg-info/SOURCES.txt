@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+mon_package/__init__.py
+mon_package/ols.py
+mon_package/ridge.py
+ols_ridge.egg-info/PKG-INFO
+ols_ridge.egg-info/SOURCES.txt
+ols_ridge.egg-info/dependency_links.txt
+ols_ridge.egg-info/requires.txt
+ols_ridge.egg-info/top_level.txt
+test/test_ols.py
+test/test_ridge.py
